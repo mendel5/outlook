@@ -13,3 +13,8 @@ Microsoft Outlook
 ### Find conversations
 - `subject:"re"`
 - `subject:"aw"`
+
+### Direct or distribution list
+- `to:my.name@example.com`
+- `NOT to:my.name@example.com`
+- `cc:my.name@example.com`
