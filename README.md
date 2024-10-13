@@ -1,6 +1,9 @@
 # outlook
 Microsoft Outlook
 
+See also / Siehe auch:
+- https://github.com/mendel5/email/
+
 ## Search
 ### General
 - Search Mail and People in Outlook.com https://support.microsoft.com/en-us/office/search-mail-and-people-in-outlook-com-88108edf-028e-4306-b87e-7400bbb40aa7
