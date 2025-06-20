@@ -3,6 +3,7 @@ Microsoft Outlook
 
 See also / Siehe auch:
 - https://github.com/mendel5/email/
+- https://github.com/mendel5/thunderbird
 
 ## Search
 ### General
